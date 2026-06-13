@@ -1,0 +1,6 @@
+{
+  "name": "太空战机 (Space Fighter)",
+  "description": "一款极致视觉拉满、流畅操作的HTML5 Canvas经典太空战机射击游戏，支持关卡系统、道具系统及成就系统，适配移动端和桌面端。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
